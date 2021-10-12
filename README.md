@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am a Software Engineer working on the back and front end using Javascript 👋
 
 <!--
 **Dianase/Dianase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
